@@ -6,3 +6,5 @@ Olá Mundo!!!
 Teste de alteração.
 
 Outro teste de alteração no arquivo README.
+
+Linha adicionada  diretamente no editor do Github.
